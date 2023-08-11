@@ -41,7 +41,7 @@ h6 {
 }
 
 body {
-    background-image: url(bg.jpg);
+    background-image: url(../bg.jpg);
     background-size: 50px;
     color: #fafafa;
     font-family: raleway-c;
