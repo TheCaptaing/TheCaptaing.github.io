@@ -13,12 +13,12 @@
 
 @font-face {
     font-family: raleway-c;
-    src: url(raleway-regular.woff2);
+    src: url(../raleway-regular.woff2);
 }
 
 @font-face {
     font-family: outfit-c;
-    src: url(outfit-regular.woff2);
+    src: url(../outfit-regular.woff2);
 }
 
 h1,
