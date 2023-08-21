@@ -20,6 +20,6 @@
 <div id="badges">
 
   <a href="t.me/nnoooww1">
-    <img src="https://inlnk.ru/YAy5kp-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://inlnk.ru/YAy5kp?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
