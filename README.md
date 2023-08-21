@@ -20,6 +20,6 @@
 <div id="badges">
 
   <a href="your-twitter-URL">
-    <img src="https://inlnk.ru/YAy5kp-blue?style=for-the-badge;width:50%;height:50%&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://inlnk.ru/YAy5kp-blue?style=width:50%;height:50%" alt="Twitter Badge"/>
   </a>
 </div>
